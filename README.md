@@ -1,11 +1,12 @@
 # FDI-plastic-RemoteSensing
+
 # Identificación de Plásticos y microplásticos en el océano por medio de Percepción Remota
 
 Desarrollo de un script para la detección de plástico flotante (marino residuos) en océanos y mares utilizando Percepción Remota por medio del 
 Sistema de satélite de imágenes gratis de Sentinel 2 (Copernicus.).Con el propósito de aplicar realces espectrales para detectar residuos plásticos.
 
-## Aplicación de realces espectrales
-## Indices
+# Aplicación de realces espectrales
+# Indices
 
 ### NDVI, NDWI and FDI
 
