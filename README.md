@@ -1,8 +1,8 @@
 # FDI-plastic-RemoteSensing
 # Identificación de Plásticos y microplásticos en el océano por medio de Percepción Remota
 
-En la presente investigación se planteó la detección de plástico flotante (marino residuos) en océanos y mares utilizando Percepción Remota por medio del 
-Sistema de satélite de imágenes gratis de Sentinel 2 (Copernicus.).Con el propósito de aplicar realces espectrales para detectar residuos plásticos en conjunto con la aplicación de Debris Tracker que proporciona datos de recolección de residuos plásticos.El propósito es ver la efectividad de la aplicación Debris Tracker en la imágenes de satélite y viceversa.Con el motivo de llegar a un mayor alcance con las imágenes de satélite.
+Desarrollo de un sript para la detección de plástico flotante (marino residuos) en océanos y mares utilizando Percepción Remota por medio del 
+Sistema de satélite de imágenes gratis de Sentinel 2 (Copernicus.).Con el propósito de aplicar realces espectrales para detectar residuos plásticos.
 
 ## Aplicación de realces espectrales
 ## Indices
